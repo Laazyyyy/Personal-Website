@@ -1,0 +1,3 @@
+box-sizing : border-box; //is used so when we use padding it while be added inside the compenent and won't affect other compenents (tags) //
+
+Whenever sing sections add : section {padding : 5%}// it gives beautiful spaces btwn compenents
